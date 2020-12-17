@@ -1,0 +1,49 @@
+header {
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: red;
+  flex-direction: column;
+}
+
+header h1 {
+  color: white;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: purple;
+  width: 300px;
+}
+
+nav h1 {
+  color: white;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  background-color: green;
+}
+
+.content h1 {
+  color: white;
+}
+
+footer {
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: blue;
+}
+
+footer h1 {
+  color: white;
+}
+

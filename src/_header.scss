@@ -1,0 +1,12 @@
+header{
+    @include alt-min;
+    @include display-flex-center;
+    background-color: red;
+    flex-direction: column;
+    
+    h1{
+        @include text-white;
+    }
+}
+
+

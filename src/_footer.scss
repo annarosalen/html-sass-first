@@ -1,0 +1,11 @@
+footer{
+    @include alt-min;
+    @include display-flex-center;
+    background-color: blue;
+
+    h1{
+        @include text-white;
+    }
+    
+
+}

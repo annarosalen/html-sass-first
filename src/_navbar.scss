@@ -1,0 +1,9 @@
+nav{
+    @include display-flex-center;
+    background-color: purple;
+    width: 300px;
+    
+    h1{
+        @include text-white;
+    }
+}

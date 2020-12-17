@@ -1,0 +1,13 @@
+@mixin alt-min {
+    height: 200px;
+}
+
+@mixin text-white{
+    color: white;
+}
+
+@mixin display-flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

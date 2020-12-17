@@ -1,0 +1,9 @@
+.content{
+    @include display-flex-center;
+    height: 500px;
+    background-color: green;
+
+    h1{
+        @include text-white;
+    }
+}
